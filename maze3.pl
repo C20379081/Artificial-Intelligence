@@ -1,0 +1,40 @@
+wall(1,10).
+wall(2, 11).
+wall(2, 6).
+wall(2, 5).
+wall(3, 11). 
+wall(3, 10). 
+wall(3, 8). 
+wall(3, 5). 
+wall(3, 4). 
+wall(4, 4). 
+wall(4, 8).      
+wall(4, 10). 
+wall(5, 8). 
+wall(5, 4).
+wall(6, 8). 
+wall(6, 4). 
+wall(7, 8). 
+wall(7, 9).
+wall(7, 10).  
+wall(7, 4). 
+wall(8, 8).
+wall(8, 10). 
+wall(8, 5).
+wall(8, 4). 
+wall(8, 3).
+wall(8, 2). 
+wall(9, 3). 
+wall(9, 5).
+wall(9, 6). 
+wall(9, 7).
+wall(9, 8). 
+wall(9, 10).
+wall(9, 11). 
+wall(10, 5).
+wall(10, 8). 
+wall(12, 8). 
+wall(12, 5).
+wall(12, 4). 
+
+bounds(12, 12).  % Defines a 12x12 maze
